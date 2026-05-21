@@ -1,0 +1,6 @@
+{
+  "name": "3D CLI Map",
+  "description": "A fully offline 3D map visualizer designed with a terminal interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
